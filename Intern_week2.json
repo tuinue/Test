@@ -1,6 +1,0 @@
-{
-    "tasks" : [
-        {"Date": [0,1,2,3,4] ,"Places" : ["MacDonald", "Burger King", "Mom Touch", "Burgiz", "KFC"] },
-        {"Date": [5,6] ,"Places" : ["Australia", "Nile river", "Grand Canyon"] }
-    ]
-}
